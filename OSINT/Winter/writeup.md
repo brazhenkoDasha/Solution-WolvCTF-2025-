@@ -1,4 +1,4 @@
-I have no ideas, what flag is that or who it belongs to. So I started googling and discovered that this flag belongs to the University of Michigan. Of course, the uni has many buildings, so I watched the video review (https://www.youtube.com/watch?v=G86yieNIwk4). At 7 minutes, I saw familiar bricks and realized that it is Michigan Union. Go to googlemaps
+I had no ideas, what flag is that or who it belongs to. So I started googling and discovered that this flag belongs to the University of Michigan. Of course, the uni has many buildings, so I watched the video review (https://www.youtube.com/watch?v=G86yieNIwk4). At 7 minutes, I saw familiar bricks and realized that it is Michigan Union. Go to googlemaps
 
 ![photo](../images/1.png)
 
