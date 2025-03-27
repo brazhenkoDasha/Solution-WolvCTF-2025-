@@ -5,7 +5,8 @@ Open file and click run:
 
 ![photo](../images/2.png)
 
-We have a breakout game, after finishing we get thr flag
+We have a breakout game, after finishing we get the flag
+
 ![photo](../images/3.png)
 
 ```WCTF{GAME_OVER_VMASBKLTNUFMGS}```
