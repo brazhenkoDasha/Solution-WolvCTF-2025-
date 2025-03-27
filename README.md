@@ -1,1 +1,1 @@
-# Solution-WolvCTF-2025
+Some tasks in WolvCTF that i've solved
