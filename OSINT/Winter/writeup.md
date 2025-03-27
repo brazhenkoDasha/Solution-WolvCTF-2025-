@@ -2,6 +2,6 @@ I have no ideas, what flag is that or who it belongs to. So I started googling a
 
 ![photo](../images/1.png)
 
-Obviously, it was photographed from the back. I noticed that all coordinates start from 42.27,-83.74. Having a hint (wctf{##.##a,##.##b} where a+b == 4), we can go through three options and get the desired flag. 
+Obviously, original photo was photographed from the back. I noticed that all coordinates start from 42.27,-83.74. Having a hint (wctf{##.##a,##.##b} where a+b == 4), we can go through three options and get the desired flag. 
 
 ```Flag is: wctf{42.271,-83.743}```
