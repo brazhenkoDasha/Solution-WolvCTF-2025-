@@ -18,14 +18,14 @@ After installation, go to the run folder inside the john directory and run John 
 ```
 The we get:
 
-![photo](../images/4.png)
+![photo](../.images/4.png)
 
 Download the KeePass2, open our file and input our password (goblue1)
 
 Then we get:
 
-![photo](../images/5.png)
+![photo](../.images/5.png)
 
-![photo](../images/6.png)
+![photo](../.images/6.png)
 
 Flag is: ```wctf{1_th0ught_1t_w4s_s3cur3?}```

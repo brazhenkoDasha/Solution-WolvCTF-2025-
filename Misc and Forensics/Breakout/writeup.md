@@ -3,10 +3,10 @@ It gives me one file breakout.ch8. CH8 file is commonly associated with CHIP-8, 
 I find out https://johnearnest.github.io/Octo/
 Open file and click run:
 
-![photo](../images/2.png)
+![photo](../.images/2.png)
 
 We have a breakout game, after finishing we get the flag
 
-![photo](../images/3.png)
+![photo](../.images/3.png)
 
 ```WCTF{GAME_OVER_VMASBKLTNUFMGS}```
